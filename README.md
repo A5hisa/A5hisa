@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aussawin Saksawaddikul</h1>
-<h3 align="center">A beginner coding from Thailand</h3>
+<h1 align="center">Hello, I'm Aussawin Saksawaddikul</h1>
+<h3 align="center">From Thailand</h3>
 
 <h3 align="left">My Gmail : saksawaddikul@gmail.com</h3>
 <p align="left">
