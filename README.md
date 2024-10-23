@@ -6,4 +6,4 @@ From Thailand
 
 I'm currently learning about Machine Learning and Deep Learning.
 ## 🛠 Skills
-Python, SQL, vba.net, Excel(advanced)
+Python, SQL, Excel(advanced)
