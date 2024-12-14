@@ -10,6 +10,7 @@ I'm currently learning about Machine Learning and Deep Learning.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=A5hisa&theme=swift&hide_border=false)<br/>
+---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=A5hisa&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
