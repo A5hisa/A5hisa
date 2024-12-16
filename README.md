@@ -20,8 +20,6 @@ I'm currently learning about Machine Learning and Deep Learning.
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-###
 ---
 [![](https://visitcount.itsvg.in/api?id=A5hisa&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
