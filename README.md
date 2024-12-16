@@ -1,4 +1,8 @@
+<div align="center">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5ycXB1dTdqMThmY3hhM2VpNnBiNzYycm5jc293Nm1xNjM5Y2J6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif"  />
+</div>
 
+###
 ## Hi, I'm Aussawin!
 
 From Thailand
