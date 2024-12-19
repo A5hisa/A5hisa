@@ -12,6 +12,12 @@ I'm currently learning about Machine Learning and Deep Learning.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=A5hisa&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=A5hisa&radius=16&theme=minimal&area=false&order=5&custom_title=My%20Contribution%20Graph&hide_border=false&hide_title=false" height="299" alt="activity-graph graph"  />
+</div>
+
+###
+
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=A5hisa&title=Commits,Experience)
 
