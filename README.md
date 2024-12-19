@@ -9,7 +9,9 @@ I'm currently learning about Machine Learning and Deep Learning.
 
 # 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=A5hisa)](https://git.io/streak-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A5hisa&layout=compact)
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=A5hisa&radius=16&theme=minimal&area=false&order=5&custom_title=My%20Contribution%20Graph&hide_border=false&hide_title=false" height="299" alt="activity-graph graph"  />
 </div>
