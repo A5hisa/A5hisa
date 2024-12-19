@@ -9,7 +9,7 @@ I'm currently learning about Machine Learning and Deep Learning.
 
 # 📊 GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=A5hisa&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A5hisa&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=A5hisa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=A5hisa&radius=16&theme=minimal&area=false&order=5&custom_title=My%20Contribution%20Graph&hide_border=false&hide_title=false" height="299" alt="activity-graph graph"  />
 </div>
@@ -21,8 +21,7 @@ I'm currently learning about Machine Learning and Deep Learning.
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=A5hisa&title=Commits,Experience)
 
-[![](https://visitcount.itsvg.in/api?id=A5hisa&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=A5hisa&icon=0&color=12)](https://visitcount.itsvg.in)
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
