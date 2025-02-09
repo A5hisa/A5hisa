@@ -9,10 +9,6 @@ I'm currently learning about Machine Learning and Deep Learning.
 
 # 📊 GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=A5hisa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
 ###
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A5hisa&layout=compact)
 
