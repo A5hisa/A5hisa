@@ -20,5 +20,4 @@ I'm currently learning about Machine Learning and Deep Learning.
 ![](https://github-profile-trophy.vercel.app/?username=A5hisa&title=Commits,Experience)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=A5hisa&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
