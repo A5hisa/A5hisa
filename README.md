@@ -20,11 +20,9 @@ I'm deeply interested in technology, coding, and artificial intelligence. I spec
 
 
 # 📊 GitHub Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=A5hisa&theme=default&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A5hisa&hide_progress=false)
-
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A5hisa&theme=default&hide_border=false"></br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A5hisa&hide_progress=false">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=A5hisa&radius=16&theme=minimal&area=false&order=5&custom_title=My%20Contribution%20Graph&hide_border=false&hide_title=false" height="299" alt="activity-graph graph"  />
 </div>
 
