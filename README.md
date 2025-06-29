@@ -1,4 +1,8 @@
-# Hi, I'm Aussawin!
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5qa3kxc2VlamJsazZpcGppOHU5dTg2NnZzMzVpYW51MHlxNXg0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width=250>
+</div>
+
+#  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat%20with%20Smiling%20Eyes.png" alt="Grinning Cat with Smiling Eyes" width="35" height="35" /> Hi, I'm Aussawin!
 
 I'm a university student from Thailand, currently studying Information Studies at the Faculty of Humanities, Burapha University.
 
