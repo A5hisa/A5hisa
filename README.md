@@ -29,7 +29,7 @@ I'm deeply interested in technology, coding, and artificial intelligence. I spec
 </div>
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=A5hisa&title=Commits,Experience)
+![](https://github-profile-trophy.vercel.app/?username=A5hisa&title=Commits,Experience,Repositories,PullRequest&margin-w=15&no-bg=true&theme=dark_lover)
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
