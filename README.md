@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5qa3kxc2VlamJsazZpcGppOHU5dTg2NnZzMzVpYW51MHlxNXg0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width=250>
-</div>
-
 #  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat%20with%20Smiling%20Eyes.png" alt="Grinning Cat with Smiling Eyes" width="35" height="35" /> Hi, I'm Aussawin!
 
 I'm a university student from Thailand, currently studying Information Studies at the Faculty of Humanities, Burapha University.
@@ -19,11 +15,19 @@ I'm deeply interested in technology, coding, and artificial intelligence. I spec
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
+# 📜 Certificate
+- 100 Days of Code: The Complete Python Pro Bootcamp, Dr. Angela Yu
+- Microsoft Excel - Excel from Beginner to Advanced, Kyle Pew
+- The Linux Command Line, Colt Steele
+- Power BI, Computer Center Burapha University
+
+Check my certificate [here](https://drive.google.com/drive/folders/1nN3_aXpD3_OhJ9zVh8CzV8p09Zf1yBas?usp=sharing)
 
 # 📊 GitHub Stats
 <div align="center">
