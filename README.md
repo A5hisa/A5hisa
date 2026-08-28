@@ -30,16 +30,3 @@ I'm deeply interested in technology, coding, and artificial intelligence. I spec
 - Power BI, Computer Center Burapha University
 
 Check my certificate [here](https://drive.google.com/drive/folders/1nN3_aXpD3_OhJ9zVh8CzV8p09Zf1yBas?usp=sharing)
-
-# 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A5hisa&theme=default&hide_border=false"></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A5hisa&hide_progress=false">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=A5hisa&radius=16&theme=minimal&area=false&order=5&custom_title=My%20Contribution%20Graph&hide_border=false&hide_title=false" height="299" alt="activity-graph graph"  />
-</div>
-
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=A5hisa&title=Commits,Experience,Repositories,PullRequest&margin-w=15&no-bg=true&theme=dark_lover)
-
----
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
